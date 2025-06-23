@@ -1,0 +1,9 @@
+[project]
+name = "neural-network"
+version = "0.1.0"
+description = "In this project, I challenged myself to build a **neural network completely from scratch** using only **NumPy**. No TensorFlow. No PyTorch. Just raw matrix math, logic, and lots of learning."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.3.1",
+]
